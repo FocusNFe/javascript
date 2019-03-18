@@ -9,7 +9,7 @@ var request = new XMLHttpRequest();
 
 var token = "Token_enviado_pelo_suporte";
 
-var url = "http://homologacao.acrasnfe.acras.com.br/v2/hooks";
+var url = "https://homologacao.focusnfe.com.br/v2/hooks";
 
 /* 
 Use o valor 'false', como terceiro parametro para que a requisicao aguarde a resposta da API

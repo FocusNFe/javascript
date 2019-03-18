@@ -11,7 +11,7 @@ var token = "Token_enviado_pelo_suporte";
 
 var hook_id = "n65g0RP1";
 
-var url = "http://homologacao.acrasnfe.acras.com.br/v2/hooks/" + hook_id;
+var url = "https://homologacao.focusnfe.com.br/v2/hooks/" + hook_id;
 
 /* 
 Use o valor 'false', como terceiro parametro para que a requisicao aguarde a resposta da API

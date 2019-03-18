@@ -15,7 +15,7 @@ var chave = "chave_da_nota_fiscal";
 Para ambiente de producao use a URL abaixo:
 "https://api.focusnfe.com.br"
 */
-var url = "http://homologacao.acrasnfe.acras.com.br/v2/nfes_recebidas/" + chave + "carta_correcao.xml";
+var url = "https://homologacao.focusnfe.com.br/v2/nfes_recebidas/" + chave + "carta_correcao.xml";
 
 /* 
 Use o valor 'false', como terceiro parametro para que a requisicao aguarde a resposta da API

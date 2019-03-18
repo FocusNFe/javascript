@@ -13,7 +13,7 @@ var token = "Token_enviado_pelo_suporte";
 Para ambiente de producao use a URL abaixo:
 "https://api.focusnfe.com.br"
 */
-var url = "http://homologacao.acrasnfe.acras.com.br/v2/nfce/inutilizacao";
+var url = "https://homologacao.focusnfe.com.br/v2/nfce/inutilizacao";
 
 /* 
 Use o valor 'false', como terceiro parametro para que a requisicao aguarde a resposta da API

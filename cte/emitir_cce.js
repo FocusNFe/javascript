@@ -18,7 +18,7 @@ var cce = {"campo_corrigido": "uf_inicio", "valor_corrigido": "PR"};
 Para ambiente de producao use a URL abaixo:
 "https://api.focusnfe.com.br"
 */
-var url = "http://homologacao.acrasnfe.acras.com.br/v2/cte/"+ ref + "/carta_correcao";
+var url = "https://homologacao.focusnfe.com.br/v2/cte/"+ ref + "/carta_correcao";
 
 /* 
 Use o valor 'false', como terceiro parametro para que a requisicao aguarde a resposta da API.
